@@ -40,6 +40,7 @@
 
 ```
 "phpunit/phpunit": "7.5.20",
+"phpunit/dbunit": "4.0.0",
 "squizlabs/php_codesniffer": "3.5.6",
 "phploc/phploc": "4.0.1",
 "pdepend/pdepend" : "2.8.0",
